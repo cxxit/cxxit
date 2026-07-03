@@ -1,29 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chin Xu Xin
 
-<!--
-**cxxit/cxxit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student specialising in Advanced Computer Science at Monash University Malaysia Campus.
 
-Here are some ideas to get you started:
+I'm currently working towards a career in Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- SQL
+- Python
+- BigQuery (ongoing)
+- PostgreSQL (coming soon)
+- Apache Spark (coming soon)
 
+## Featured Projects
+- Data Structures and Algorithms refresher
 
-Software Developer
-------------------
-
-I'm currently 2nd Year University Student pursuing a Computer Science Degree.
-
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [xuxinchin@gmail.com](mailto:xuxinchin@gmail.com)
-* 🧠  I'm currently learning Javascript/DSA/Python/Java/R
-* 👥  I'm looking to collaborate on any projects any features
-
-
+## Connect
+- LinkedIn: https://www.linkedin.com/in/xu-xin-chin-b882022b2?utm_source=share_via&utm_content=profile&utm_medium=member_ios
