@@ -5,11 +5,12 @@ Computer Science student specialising in Advanced Computer Science at Monash Uni
 I'm currently working towards a career in Data Engineering.
 
 ## Currently Learning
-- SQL
+- SQL/PostgreSQL
 - Python
+- Oracle SQL Developer (VS Code extension / tool)
+- Oracle SQL Developer Data Modeler
 - GCP (ongoing)
 - BigQuery (ongoing)
-- PostgreSQL (coming soon)
 - Apache Spark (coming soon)
 
 ## Featured Projects
