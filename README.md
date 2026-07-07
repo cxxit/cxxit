@@ -1,4 +1,4 @@
-# Hi, I'm Chin Xu Xin
+# Hi, Xu Xin here!
 
 Computer Science student specialising in Advanced Computer Science at Monash University Malaysia Campus.
 
@@ -7,6 +7,7 @@ I'm currently working towards a career in Data Engineering.
 ## Currently Learning
 - SQL
 - Python
+- GCP (ongoing)
 - BigQuery (ongoing)
 - PostgreSQL (coming soon)
 - Apache Spark (coming soon)
