@@ -11,7 +11,14 @@ I'm currently working towards a career in Data Engineering.
 - Oracle SQL Developer Data Modeler
 - GCP (ongoing)
 - BigQuery (ongoing)
-- Apache Spark (coming soon)
+- Data Warehousing
+- ETL / ELT
+- Data Pipelines
+
+## Later 
+- Apache Spark / PySpark
+- dbt
+- Apache Airflow
 
 ## Featured Projects
 - Data Structures and Algorithms refresher
