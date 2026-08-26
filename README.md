@@ -14,6 +14,7 @@ I'm currently working towards a career in Data Engineering.
 - Data Warehousing
 - ETL / ELT
 - Data Pipelines
+- Docker
 
 ## Later 
 - Apache Spark / PySpark
