@@ -2,7 +2,7 @@
 
 Computer Science student specialising in Advanced Computer Science at Monash University Malaysia Campus.
 
-I'm currently working towards a career in Data Engineering.
+I'm currently working towards a career in Data Engineering/ Analytics
 
 ## Currently Learning
 - SQL/PostgreSQL
@@ -16,10 +16,6 @@ I'm currently working towards a career in Data Engineering.
 - Data Pipelines
 - Docker
 
-## Later 
-- Apache Spark / PySpark
-- dbt
-- Apache Airflow
 
 ## Featured Projects
 - Data Structures and Algorithms refresher
