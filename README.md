@@ -18,7 +18,7 @@ I'm currently working towards a career in Data Engineering/ Analytics
 
 
 ## Featured Projects
-- Data Structures and Algorithms refresher
+- Data Structures and Algorithms 
 - Data Engineering Zoomcamp (Introduction to data engineering)
 
 ## Connect
